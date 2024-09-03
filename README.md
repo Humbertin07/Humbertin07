@@ -11,7 +11,7 @@
 
   ## 👾| Experiências:
 
-  <div>
+  <div align = "center">
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
@@ -23,10 +23,11 @@
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown"/>
-    <img width=50px height=50px src="img/sql.png" title="SQL"/>
+    <img width=100px height=50px src="img/sql.png" title="SQL"/>
+    <img width=50px height=50px src="img/vscode.png" title="Vs Code"/>
   </div>
 
   ## 💻| Linguagens de programação que mais uso:
-<div>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humbertin07&layout=donut&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=0,73007e,73007e,4e0055,1e1e1f,2b2c30&locale=pt-br&hide_border=true&hide_title=true">
+<div align = "center">
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humbertin07&layout=donut&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=FF0000,CC0000,990000,660000,330000,000000&locale=pt-br&hide_border=true&hide_title=true">
 </div>
