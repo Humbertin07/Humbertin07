@@ -23,6 +23,9 @@
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown"/>
     <img width=100px height=50px src="img/sql.png" title="SQL"/>
+    <img width=50px height=50px src="img/canva.png" title="SQL"/>
+    <img width=50px height=50px src="img/ps.png" title="SQL"/>
+    <img width=50px height=50px src="img/nx.png" title="SQL"/>
   </div>
 
   ## 💻| Linguagens de programação que mais uso:
