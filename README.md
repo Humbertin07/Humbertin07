@@ -30,5 +30,5 @@
 
   ## 💻| Linguagens de programação que mais uso:
 <div align = "center">
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humbertin07&layout=donut&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=FF0000,CC0000,990000,660000,330000,000000&locale=pt-br&hide_border=true&hide_title=true">
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=donut&title_color=eee3ee&text_color=eee3ee&icon_color=73007e&bg_color=FF0000,CC0000,990000,660000,330000,000000&locale=pt-br&hide_border=true&hide_title=true">
 </div>
