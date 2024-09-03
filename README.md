@@ -16,7 +16,6 @@
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
-    <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C"/>
@@ -24,7 +23,6 @@
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino"/>
     <img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" title="Markdown"/>
     <img width=100px height=50px src="img/sql.png" title="SQL"/>
-    <img width=50px height=50px src="img/vscode.png" title="Vs Code"/>
   </div>
 
   ## 💻| Linguagens de programação que mais uso:
