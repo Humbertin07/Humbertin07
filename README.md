@@ -1,4 +1,4 @@
-<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou o Humberto </h1>
+<h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou o Humberto! </h1>
 
 <div align = "center">
   <a href = "mailto:humbertopellegrini007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
